@@ -1,7 +1,7 @@
 function contar() {
-    // Lógica da função aqui
+    
     console.log("Button clicked!");
-    // Substitua console.log pela sua funcionalidade real
+    
 
     let ini = document.getElementById('txti')
     let fim = document.getElementById('txtf')
