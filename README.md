@@ -1,2 +1,2 @@
 # JAVASCRIPT
- Estudos erm JS
+ Estudos em JS
